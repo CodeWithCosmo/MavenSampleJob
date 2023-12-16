@@ -1,2 +1,1 @@
-# MavenSampleJob
-Maven Sample Job For Jenkins
+## `Maven Sample Project` 
